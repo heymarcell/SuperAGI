@@ -28,8 +28,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'TransformerOptimus', // Usually your GitHub org/user name.
+  projectName: 'SuperAGI', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -53,14 +53,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/TransformerOptimus/SuperAGI/website/docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/TransformerOptimus/SuperAGI/website/docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -73,12 +73,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://superagi.com/wp-content/uploads/2023/06/Frame-113818.png',
       navbar: {
-        title: 'My Site',
+        title: 'SuperAGI',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'https://superagi.com/wp-content/uploads/2023/06/Frame-113818.png',
         },
         items: [
           {
@@ -88,7 +88,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/TransformerOptimus/SuperAGI',
             label: 'GitHub Repo',
             position: 'right',
           },
