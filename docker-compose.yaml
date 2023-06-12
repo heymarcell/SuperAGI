@@ -24,7 +24,7 @@ services:
       - super__postgres
     networks:
       - super_network
-
+    
   gui:
     build: ./gui
     ports:
