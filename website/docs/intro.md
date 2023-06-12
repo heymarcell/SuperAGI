@@ -6,7 +6,7 @@ slug: /
 
 # Introduction to SuperAGI
 
-SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 
 ## Features
 

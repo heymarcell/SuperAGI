@@ -109,17 +109,18 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
+            
               {
                 label: 'Discord',
                 href: 'https://discord.gg/dXbRe5BHJC',
               },
               {
                 label: 'Twitter',
-                href: '#',
+                href: 'https://twitter.com/_superAGI',
+              },
+              {
+                label: 'Reddit',
+                href: 'https://www.reddit.com/r/Super_AGI/',
               },
             ],
           },
@@ -127,13 +128,21 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'SuperAGI.com',
+                href: 'https://superagi.com/',
+              },
+              {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
+              },
+              {
+                label: 'Roadmap',
+                href: 'https://github.com/users/TransformerOptimus/projects/1',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SuperAGI`,
       },
       prism: {
         theme: lightCodeTheme,
