@@ -4,7 +4,7 @@ id: superagi-home
 slug: /
 ---
 
-# Tutorial Intro
+# Introduction to SuperAGI
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

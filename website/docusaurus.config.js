@@ -4,11 +4,21 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+module.exports = {
+  themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
+  },
+};
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SuperAGI',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'SuperAGI Docs',
+  tagline: 'Dev-First  open source framework to build, manage & run autonomous AI agents',
+  favicon: 'https://superagi.com/wp-content/uploads/2023/05/Superagi_favicon.png',
 
   // Set the production url of your site here
   url: 'https://superagi.com',
