@@ -1,4 +1,4 @@
-# SuperAGI Google Search Tool
+# Google Search Tool
 
 The SuperAGI Google Search Tool helps users perform a Google search and extract snippets and webpages.
 

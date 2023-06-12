@@ -1,4 +1,4 @@
-# SuperAGI Email Tool
+# Email Tool
 
 The robust SuperAGI Email Tool lets users send and read emails while providing a foundation for other fascinating use cases.
 

@@ -1,4 +1,4 @@
-# SuperAGI Jira Tool
+# Jira Tool
 
 The robust SuperAGI Jira Tool lets users create, edit and search issues while providing a foundation for other fascinating use cases.
 

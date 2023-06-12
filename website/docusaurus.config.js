@@ -53,14 +53,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TransformerOptimus/SuperAGI/website/docs/',
+            'https://github.com/TransformerOptimus/SuperAGI/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TransformerOptimus/SuperAGI/website/docs/',
+            'https://github.com/TransformerOptimus/SuperAGI/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/dXbRe5BHJC',
               },
               {
                 label: 'Twitter',

@@ -1,4 +1,4 @@
-# SuperAGI Coding Tool
+# Coding Tool
 
 The robust SuperAGI Coding Tool lets help with their coding tasks like writing, reviewing, refactoring code, fixing bugs, and understanding programming concepts.
 

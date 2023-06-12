@@ -1,4 +1,4 @@
-# SuperAGI Web Scraper Tool
+# Web Scraper Tool
 
 The SuperAGI Webscraper Tool lets users perform web scraping, extracting URLs and retrieving the textual content from websites.
 

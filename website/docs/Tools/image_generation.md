@@ -1,4 +1,4 @@
-# SuperAGI Image Generation Tool
+# Image Generation Tool
 
 The SuperAGI Image Generation Tool helps you generate an image with a prompt using DALL-E.
 
